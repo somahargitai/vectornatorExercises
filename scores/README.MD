@@ -1,6 +1,6 @@
 # Football Scores
 
-See the exercise description in `../Vectornator_challenge.MD` file.
+See the exercise description in `../README.MD` file.
 
 To test `image.js`, install and run jest:
 
